@@ -6,3 +6,6 @@ Click a photograph of your index finger (of working hand) with the flash ON from
 Rename the image to be "sample.jpg" and place it into the folder where spo2.py is placed.
 Make sure you have installed open-cv for python using pip.
 The given code has been written in python-3.6 but you may modify it as per your requirement.
+
+# Disclaimer
+Kindly use this for personal diagnosis only clinical confirmation should be made with the oxymeter prescribed to do so.
